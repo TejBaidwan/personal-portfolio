@@ -1,7 +1,7 @@
 # Welcome
 
 - This is my personal portfolio website created using Next.js
-- It allows you to learn more about me, see some of skills and past works, and get in touch with megi
+- It allows you to learn more about me, see some of skills and past works, and get in touch with megig
 
 ## Licenses
 
